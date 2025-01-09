@@ -1,0 +1,7 @@
+point: [
+	s = 0,
+	t = 0,
+	m2 = 100
+]
+num-propag: 1
+num-sing-propag: 1
