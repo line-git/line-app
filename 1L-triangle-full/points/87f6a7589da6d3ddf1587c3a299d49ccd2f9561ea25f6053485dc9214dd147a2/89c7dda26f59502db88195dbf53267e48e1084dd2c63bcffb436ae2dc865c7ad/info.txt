@@ -1,0 +1,10 @@
+point: [
+	s = 3,
+	m12 = 100,
+	m22 = 100,
+	m32 = 100,
+	p12 = 1,
+	p22 = 2
+]
+num-propag: 3
+num-sing-propag: 0
