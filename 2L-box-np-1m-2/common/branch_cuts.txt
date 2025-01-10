@@ -1,0 +1,9 @@
+tot-branch: 5
+massless-branch: 1
+branches: [
+  s,
+  -mt^2,
+  s-4*mt^2,
+  t-9*mt^2,
+  -s-t-7*mt^2
+]

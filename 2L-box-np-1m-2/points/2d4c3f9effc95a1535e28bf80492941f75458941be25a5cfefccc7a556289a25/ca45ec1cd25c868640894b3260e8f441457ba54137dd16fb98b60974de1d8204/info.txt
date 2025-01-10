@@ -1,0 +1,7 @@
+point: [
+	s = 3,
+	t = 2,
+	mt2 = 1
+]
+num-propag: 10
+num-sing-propag: 2

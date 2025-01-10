@@ -1,0 +1,12 @@
+num-propag: 33
+num-sing-propag: 1
+num-propag: 33
+num-sing-propag: 1
+num-propag: 33
+num-sing-propag: 1
+num-propag: 33
+num-sing-propag: 1
+num-propag: 33
+num-sing-propag: 1
+num-propag: 33
+num-sing-propag: 1

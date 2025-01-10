@@ -1,0 +1,2 @@
+num-propag: 15
+num-sing-propag: 1

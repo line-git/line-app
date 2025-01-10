@@ -1,0 +1,4 @@
+num-propag: 17
+num-sing-propag: 1
+num-propag: 17
+num-sing-propag: 1

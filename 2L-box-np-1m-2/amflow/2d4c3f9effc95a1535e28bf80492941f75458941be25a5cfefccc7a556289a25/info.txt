@@ -1,0 +1,7 @@
+ord: 6
+prec: 16
+point: [
+	s = 5,
+	t = 2,
+	mt2 = 1
+]
